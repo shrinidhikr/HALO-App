@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165597915231",
+    "firebase_url": "https://halo2-1ce47.firebaseio.com",
+    "project_id": "halo2-1ce47",
+    "storage_bucket": "halo2-1ce47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165597915231:android:1d783c29070624c6",
+        "android_client_info": {
+          "package_name": "lohith.com.halo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165597915231-mrgb24fl9k73689km84qvcidrrier36l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lohith.com.halo",
+            "certificate_hash": "0893054f6d844194cfe4f611f787b5aef5a37abe"
+          }
+        },
+        {
+          "client_id": "165597915231-7268mc1lgaorhor1ccooku7sac4dv4r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHZgUxPFNDpI37MVi4gEhOF197Tx7M9M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165597915231-7268mc1lgaorhor1ccooku7sac4dv4r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
