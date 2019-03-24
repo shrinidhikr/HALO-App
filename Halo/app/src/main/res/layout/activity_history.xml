@@ -24,7 +24,7 @@
 
         <pl.droidsonroids.gif.GifImageView
             android:id="@+id/timegif"
-            android:layout_width="167dp"
+            android:layout_width="94dp"
             android:layout_height="206dp"
             android:cropToPadding="true"
             android:foregroundGravity="center"
@@ -32,7 +32,7 @@
 
         <pl.droidsonroids.gif.GifImageView
             android:id="@+id/docgif"
-            android:layout_width="186dp"
+            android:layout_width="187dp"
             android:layout_height="206dp"
             android:cropToPadding="true"
             android:src="@drawable/dochr" />
@@ -75,7 +75,7 @@
                 android:layout_height="52dp"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="Heart Rate - History"
+                android:text="Heart Rate"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -92,12 +92,14 @@
                 android:layout_width="203dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:gravity="center_horizontal"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
             <TextView
                 android:id="@+id/textView6"
                 android:layout_width="194dp"
                 android:layout_height="345dp"
+                android:gravity="center_horizontal"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
         </LinearLayout>
 
