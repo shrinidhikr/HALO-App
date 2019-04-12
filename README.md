@@ -1,3 +1,3 @@
 # HALO-App
 
-Real time heart rateb estimation app
+Real time heart rate estimation app
